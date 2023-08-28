@@ -1,3 +1,4 @@
 Hello World
 New World Open
 Another World
+This is after connecting to the Cloud Platform
